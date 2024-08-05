@@ -11,3 +11,4 @@ interface thumbnailObject {
     width: number,
     height: number
 }
+
